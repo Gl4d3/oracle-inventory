@@ -1,6 +1,0 @@
-[DEFAULT]
-user=ocid1.user.oc1..aaaaaaaa5m6cgjd2m4n4vptgea6ywt6xtu34pfdsmo2qkoqn3uwdhjwjhjqq
-fingerprint=22:54:d8:84:01:2f:ba:07:b1:30:cf:07:12:82:01:c9
-tenancy=ocid1.tenancy.oc1..aaaaaaaahat4dcwaf7yzlfzywieiu4wzgfai5wv6py2mba63iitr3jsmwgmq
-region=af-johannesburg-1
-key_file=./mykeyfile.pem
