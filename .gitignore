@@ -17,6 +17,8 @@ build/
 .env.local
 .env.development
 .env.production
+# Ignore oci directory
+oci/
 
 # Ignore compiled binaries and executables
 *.exe
