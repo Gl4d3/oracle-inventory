@@ -1,8 +1,6 @@
-// Require oci.js
-
-// INDEX.JS  AS ENTRY POINT
-const express = require('express'); // Import Express.js
-const app = express(); // Create an Express app
+// Import required modules
+const express = require('express');
+const app = express();
 const uploadRoute = require('../routes/upload'); // Import route handler
 
 // Middleware (optional)
